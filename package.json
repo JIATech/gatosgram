@@ -2,7 +2,7 @@
   "name": "gatosgram.github.io",
   "version": "1.1.0",
   "description": "",
-  "homepage": "https://gatosgram.jiacode.dev",
+  "homepage": "https://gatosgram.github.io",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
