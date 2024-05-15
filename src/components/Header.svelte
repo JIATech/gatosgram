@@ -64,7 +64,7 @@
     <div class="Header-container">
         <div class="Header-content">
             <div class="Header-logo">
-                <h1>Gatosgram</h1>
+                <h1>Gatosgram Svelte</h1>
             </div>
             <div class="Header-nav">
                 <ul>
