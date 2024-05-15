@@ -1,0 +1,283 @@
+{
+  "user": {
+    "nickname": "JIAcode.cat",
+    "name": "Cat Lover"
+  },
+  "posts": [
+    {
+      "username": "Mishi",
+      "location": "Buenos Aires, Argentina",
+      "avatar": "https://randomuser.me/api/portraits/men/1.jpg",
+      "photo": "./assets/cat1.jpg",
+      "like": false,
+      "bookmark": false,
+      "postComment": "Atrapando ratones invisibles.",
+      "comments": [
+        {
+          "id": 1,
+          "text": "¡Es un ninja!",
+          "username": "Gatito"
+        },
+        {
+          "id": 2,
+          "text": "😂",
+          "username": "MiauMiau"
+        }
+      ]
+    },
+    {
+      "username": "Gatito",
+      "location": "Rosario, Argentina",
+      "avatar": "https://randomuser.me/api/portraits/women/2.jpg",
+      "photo": "./assets/cat2.webp",
+      "like": false,
+      "bookmark": false,
+      "postComment": "¿Por qué siempre me despiertan para comer?",
+      "comments": [
+        {
+          "id": 3,
+          "text": "¡La vida de un rey!",
+          "username": "Pelusa"
+        }
+      ]
+    },
+    {
+      "username": "Pelusa",
+      "location": "Córdoba, Argentina",
+      "avatar": "https://randomuser.me/api/portraits/men/3.jpg",
+      "photo": "./assets/cat3.jpeg",
+      "like": false,
+      "bookmark": false,
+      "postComment": "Los humanos nunca entenderán la elegancia de un gato.",
+      "comments": [
+        {
+          "id": 4,
+          "text": "¡Reina absoluta!",
+          "username": "Felis"
+        },
+        {
+          "id": 5,
+          "text": "Tan cierto.",
+          "username": "Ronroneo"
+        }
+      ]
+    },
+    {
+      "username": "MiauMiau",
+      "location": "Mendoza, Argentina",
+      "avatar": "https://randomuser.me/api/portraits/women/4.jpg",
+      "photo": "./assets/cat4.jpg",
+      "like": false,
+      "bookmark": false,
+      "postComment": "Hora de la siesta, ¡otra vez!",
+      "comments": [
+        {
+          "id": 6,
+          "text": "Siempre es hora de la siesta.",
+          "username": "Mishi"
+        }
+      ]
+    },
+    {
+      "username": "Felis",
+      "location": "La Plata, Argentina",
+      "avatar": "https://randomuser.me/api/portraits/men/5.jpg",
+      "photo": "./assets/cat5.webp",
+      "like": false,
+      "bookmark": false,
+      "postComment": "¿Por qué me miran raro cuando me lamo?",
+      "comments": [
+        {
+          "id": 7,
+          "text": "¡Es tu derecho!",
+          "username": "Gatito"
+        },
+        {
+          "id": 8,
+          "text": "La higiene es importante.",
+          "username": "Pelusa"
+        }
+      ]
+    },
+    {
+      "username": "Ronroneo",
+      "location": "San Juan, Argentina",
+      "avatar": "https://randomuser.me/api/portraits/women/6.jpg",
+      "photo": "./assets/cat6.png",
+      "like": false,
+      "bookmark": false,
+      "postComment": "Cazando moscas, ¡deporte extremo!",
+      "comments": [
+        {
+          "id": 9,
+          "text": "¡Toda una atleta!",
+          "username": "MiauMiau"
+        }
+      ]
+    },
+    {
+      "username": "Garras",
+      "location": "Salta, Argentina",
+      "avatar": "https://randomuser.me/api/portraits/men/7.jpg",
+      "photo": "./assets/cat7.jpg",
+      "like": false,
+      "bookmark": false,
+      "postComment": "Siempre cayendo de pie, ¡superpoder gatuno!",
+      "comments": [
+        {
+          "id": 10,
+          "text": "¡Increíble!",
+          "username": "Felis"
+        },
+        {
+          "id": 11,
+          "text": "La gravedad no te afecta.",
+          "username": "Ronroneo"
+        }
+      ]
+    },
+    {
+      "username": "Bigotes",
+      "location": "San Luis, Argentina",
+      "avatar": "https://randomuser.me/api/portraits/women/8.jpg",
+      "photo": "./assets/cat8.jpg",
+      "like": false,
+      "bookmark": false,
+      "postComment": "Siempre en busca de nuevas aventuras.",
+      "comments": [
+        {
+          "id": 12,
+          "text": "¡Explorador nato!",
+          "username": "Garras"
+        }
+      ]
+    },
+    {
+      "username": "Peludito",
+      "location": "San Fernando, Argentina",
+      "avatar": "https://randomuser.me/api/portraits/men/9.jpg",
+      "photo": "./assets/cat9.jpg",
+      "like": false,
+      "bookmark": false,
+      "postComment": "Cuidado con mis garras.",
+      "comments": [
+        {
+          "id": 13,
+          "text": "¡Afiladas como cuchillos!",
+          "username": "Bigotes"
+        },
+        {
+          "id": 14,
+          "text": "Ten cuidado.",
+          "username": "Pelusa"
+        }
+      ]
+    },
+    {
+      "username": "Tigre",
+      "location": "Mar del Plata, Argentina",
+      "avatar": "https://randomuser.me/api/portraits/women/10.jpg",
+      "photo": "./assets/cat10.jpg",
+      "like": false,
+      "bookmark": false,
+      "postComment": "Amo las cajas más que a mis humanos.",
+      "comments": [
+        {
+          "id": 15,
+          "text": "¡Las cajas son vida!",
+          "username": "Peludito"
+        }
+      ]
+    },
+    {
+      "username": "Rayo",
+      "location": "Neuquén, Argentina",
+      "avatar": "https://randomuser.me/api/portraits/men/11.jpg",
+      "photo": "./assets/cat11.jpg",
+      "like": false,
+      "bookmark": false,
+      "postComment": "Corriendo como un loco por la casa.",
+      "comments": [
+        {
+          "id": 16,
+          "text": "¡Energía pura!",
+          "username": "Tigre"
+        },
+        {
+          "id": 17,
+          "text": "¡Inagotable!",
+          "username": "Bigotes"
+        }
+      ]
+    },
+    {
+      "username": "Manchitas",
+      "location": "Jujuy, Argentina",
+      "avatar": "https://randomuser.me/api/portraits/women/12.jpg",
+      "photo": "./assets/cat12.jpg",
+      "like": false,
+      "bookmark": false,
+      "postComment": "Siempre el más elegante de la casa.",
+      "comments": [
+        {
+          "id": 18,
+          "text": "¡Modelando!",
+          "username": "Pelusa"
+        }
+      ]
+    },
+    {
+      "username": "Sombra",
+      "location": "Formosa, Argentina",
+      "avatar": "https://randomuser.me/api/portraits/men/13.jpg",
+      "photo": "./assets/cat13.jpg",
+      "like": false,
+      "bookmark": false,
+      "postComment": "Escondido bajo la cama, mi refugio secreto.",
+      "comments": [
+        {
+          "id": 19,
+          "text": "¡Siempre un misterio!",
+          "username": "Manchitas"
+        }
+      ]
+    },
+    {
+      "username": "Rayas",
+      "location": "Tucumán, Argentina",
+      "avatar": "https://randomuser.me/api/portraits/women/14.jpg",
+      "photo": "./assets/cat14.jpg",
+      "like": false,
+      "bookmark": false,
+      "postComment": "A veces, solo quiero paz y tranquilidad.",
+      "comments": [
+        {
+          "id": 20,
+          "text": "Todos necesitamos eso a veces.",
+          "username": "Sombra"
+        },
+        {
+          "id": 21,
+          "text": "Tan cierto.",
+          "username": "Rayo"
+        }
+      ]
+    },
+    {
+      "username": "Pantera",
+      "location": "Corrientes, Argentina",
+      "avatar": "https://randomuser.me/api/portraits/men/15.jpg",
+      "photo": "./assets/cat15.jpg",
+      "like": false,
+      "bookmark": false,
+      "postComment": "Me encanta mirar por la ventana.",
+      "comments": [
+        {
+          "id": 22,
+          "text": "¡El mejor entretenimiento!",
+          "username": "Rayas"
+        }
+      ]
+    }
+    ]
+}
