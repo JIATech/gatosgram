@@ -1,19 +1,9 @@
 <script>
-    import { onMount } from 'svelte';
     import Header from '../components/Header.svelte';
     import Main from '../components/Main.svelte';
     import Sidebar from '../components/Sidebar.svelte';
     import Timeline from '../components/Timeline.svelte';
-
-    let data = {};
-    // const API = 'https://kittygram-api-lg7jjtvfh.now.sh/';
-    const API = '/gatos.json'
-
-    onMount(async () => {
-        const response = await fetch(API);
-        data = await response.json();
-    });
-    
+  let promise = fetch('./gatos.json').then(response => response.json());
 </script>
 
 <style>
@@ -34,7 +24,11 @@
 </style>
 
 <Header />
-<Main>
-    <Timeline posts={data.posts} />
+{#await promise then data}
+  <Main>
+    <Timeline posts={data.posts} />    
     <Sidebar {...data.user} />
-</Main>
+  </Main>
+{:catch error}
+  <p>Something went wrong: {error.message}</p>
+{/await}
