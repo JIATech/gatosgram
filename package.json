@@ -1,6 +1,6 @@
 {
-  "name": "gatosgram",
-  "version": "1.0.0",
+  "name": "gatosgram.github.io",
+  "version": "1.1.0",
   "description": "",
   "homepage": "https://gatosgram.jiacode.dev",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --mode production",
     "start": "webpack serve --mode development",
-    "deploy": "npm run build && gh-pages -d dist"
+    "deploy": "pnpm run build && gh-pages -d dist"
   },
   "keywords": [],
   "author": "",
